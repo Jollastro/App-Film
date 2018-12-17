@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AppFilm"
+             x:Class="AppFilm.MainPage">
+
+	<ScrollView>
+		<StackLayout>		
+			<Entry x:Name="editText" Placeholder="Inserisci il titolo del film che vuoi cercare!" />
+
+			<Button x:Name="searchButton" Text="Cerca" />
+		
+			<Label x:Name="Titolo" Text="" />
+			<Label x:Name="Year" Text="" />
+			<Label x:Name="Released" Text="" />
+			<Label x:Name="Runtime" Text="" />
+			<Label x:Name="Genre" Text="" />
+			<Label x:Name="Director" Text="" />
+			<Label x:Name="Writer" Text="" />
+			<Label x:Name="Actors" Text="" />
+			<Label x:Name="Plot" Text="" />
+			<Label x:Name="Language" Text="" />
+			<Label x:Name="Country" Text="" />
+			<Label x:Name="Awards" Text="" />		
+		</StackLayout>
+	</ScrollView>
+
+</ContentPage>

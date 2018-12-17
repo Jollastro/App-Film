@@ -1,0 +1,8 @@
+Send all data requests to:
+
+http://www.omdbapi.com/?apikey=[3869666b]&
+
+
+Poster API requests:
+
+http://img.omdbapi.com/?apikey=[3869666b]&

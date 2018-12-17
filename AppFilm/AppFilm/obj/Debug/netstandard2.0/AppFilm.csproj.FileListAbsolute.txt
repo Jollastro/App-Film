@@ -1,0 +1,12 @@
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\bin\Debug\netstandard2.0\AppFilm.deps.json
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\bin\Debug\netstandard2.0\AppFilm.dll
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\bin\Debug\netstandard2.0\AppFilm.pdb
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.csproj.CoreCompileInputs.cache
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.AssemblyInfoInputs.cache
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.AssemblyInfo.cs
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.dll
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.pdb
+C:\Users\Davide\Documents\Visual Studio 2017\Projects\AppFilm\AppFilm\AppFilm\obj\Debug\netstandard2.0\AppFilm.csprojAssemblyReference.cache
